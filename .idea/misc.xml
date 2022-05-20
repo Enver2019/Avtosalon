@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/circlebackgroundorange.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/custom_back_button.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/custom_button.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_book_appt.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_credits.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_delete_forever_black_24dp.xml" value="0.2595" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_directions_car_black_24dp.xml" value="0.231" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_email_black_24dp.xml" value="0.2595" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_home_page.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_info_black_24dp.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_main_menu_call.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_meet_team.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_menu_camera.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_menu_manage.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_menu_send.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_sync_black_24dp.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_visit_social_media.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_visit_us.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/ic_visit_website.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/drawable/side_nav_bar.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout-h900dp/fragment_main.xml" value="0.4765625" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout-h900dp/fragment_vehicle.xml" value="0.2119140625" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout-land/fragment_main.xml" value="0.16875" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout-w900dp/fragment_vehicle.xml" value="0.1" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout-w900dp/fragment_view_inv.xml" value="0.136" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/app_bar_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/content_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/credits_card.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/custom_row_employee.xml" value="0.264" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/fragment_book_appointment.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/fragment_credits.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/fragment_images.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/fragment_issue_information.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/fragment_main.xml" value="0.2" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/fragment_meet_the_team.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/fragment_vehicle.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/fragment_vehicle_information.xml" value="0.176" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/fragment_view_inv.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/inv_card.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/nav_header_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/layout/recycle_row_employee.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/menu/activity_main_drawer.xml" value="0.264" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/menu/main.xml" value="0.2" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.124" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/xml/pref_customer.xml" value="0.264" />
+        <entry key="..\:/Users/vektr/OneDrive/Desktop/DealershipApp-master/app/src/main/res/xml/pref_vehicle.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
+    <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="12">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="3" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="11" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="11">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="6" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="9" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

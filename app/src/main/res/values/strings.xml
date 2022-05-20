@@ -1,0 +1,330 @@
+<resources>
+    <string name="app_name">Автосалон</string>
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Заголовок навигации</string>
+    <string name="action_settings">Настройки</string>
+
+    <!--activity_main_drawer Strings-->
+    <string name="viewInventoryTitle">Главная</string>
+    <string name="bookAppointmentTitle">Оставить заявку</string>
+    <string name="meetTheTeamTitle">Связь с разработчиком</string>
+    <string name="homepageTitle">О нас</string>
+    <string name="creditsTitle">Кредит</string>
+
+    <string name="brand">Марка</string>
+    <string name="model">Модель</string>
+
+    <string name="workEmail"></string>
+
+    <string name="first_name">Имя</string>
+    <string name="first_name_hint">Пожалуйста, введите имя</string>
+    <string name="first_name_blank">Имя нельзя оставить пустым</string>
+
+    <string name="last_name">Фамилия</string>
+    <string name="last_name_hint">Пожалуйста, введите фамилию</string>
+    <string name="last_name_blank">Фамилию нельзя оставить пустой</string>
+
+    <string name="email">Электроная почта</string>'
+    <string name="email_hint">auto@gmail.com</string>
+    <string name="email_waring">Пожалуйста, введите вашу почту</string>
+    <string name="email_blank">Адрес электронной почты нельзя оставить пустым</string>
+
+    <string name="phone">Телефон</string>
+    <string name="phone_hint">+7-978-(091)-07-69</string>
+    <string name="phone_warning"></string>
+    <string name="phone_blank">Номер телефона нельзя оставить пустым</string>
+
+    <string name="next_button">Далее</string>
+    <string name="back_button">Назад</string>
+    <string name="contact_info_header">Свяжитесь с нами</string>
+
+    <string name="vehicle_info_header">Информация об автомобиле</string>
+    <string name="brandText">Марка</string>
+    <string name="modelText">Модель</string>
+    <string name="vinText">VIN</string>
+    <string name="vin_blank">Номер VIN нельзя оставить пустым</string>
+    <string name="kmText">Пробег</string>
+    <string name="km_blank">Пробег не может быть пустым</string>
+
+    <string name="issue_info_header">Информация о записи</string>
+    <string name="date_title">Дата</string>
+    <string name="date_hint">Выберите дату записи</string>
+    <string name="date_empty">Дата не может быть оставлена пустой</string>
+
+    <string name="time_title">Время</string>
+    <string name="time_hint">Выберите время записи</string>
+    <string name="time_empty">Время не может быть оставлено пустым</string>
+
+    <string name="issue_title">Тема записи</string>
+    <string name="issue_hint">Введите тему</string>
+    <string name="issue_empty">Тема записи не может быть пустой</string>
+
+    <string name="title_vehicle_list">Транспорт</string>
+    <string name="title_vehicle_detail"></string>
+
+    <string name="submit_button">Далее</string>
+    <string name="issueInfoHeader"></string>
+
+    <!-- MAIN FRAGMENT STRINGS -->
+    <string name="main_visit_website">Перейти на сайт</string>
+    <string name="main_visit_location">Посмотреть местонахождение</string>
+    <string name="main_visit_facebook">Посетить группу в facebook</string>
+    <string name="main_visit_twitter">Посетить группу в twitter</string>
+    <string name="main_call_us">Позвонить нам</string>
+    <string-array name="brand_array">
+        <item>Brand</item>
+        <item>BMW</item>
+        <item>Mercedes</item>
+        <item>Jeep</item>
+        <item>Ford</item>
+        <item>GMC</item>
+        <item>Chevrolet</item>
+        <item>RAM</item>
+        <item>Toyota</item>
+    </string-array>
+    <string-array name="model_blank_array">
+        <item>Model</item>
+    </string-array>
+    <string-array name="bmw_model_array">
+        <item>Model</item>
+        <item>2 series</item>
+        <item>3 series</item>
+        <item>5 series</item>
+        <item>6 series</item>
+        <item>7 series</item>
+        <item>X3</item>
+        <item>X5</item>
+    </string-array>
+    <string-array name="jeep_model_array">
+        <item>Model</item>
+        <item>Wrangler JK</item>
+        <item>Grand Cherokee</item>
+        <item>Gladiator</item>
+        <item>Compass</item>
+        <item>Cherokee</item>
+    </string-array>
+    <string-array name="mercedes_model_array">
+        <item>Model</item>
+        <item>C class</item>
+        <item>E class</item>
+        <item>GLC</item>
+        <item>GLE</item>
+        <item>G class</item>
+        <item>S class</item>
+    </string-array>
+    <string-array name="ford_model_array">
+        <item>Model</item>
+        <item>Escape</item>
+        <item>Explorer</item>
+        <item>Expedition</item>
+        <item>F150</item>
+        <item>F250</item>
+        <item>F350</item>
+        <item>F450</item>
+    </string-array>
+    <string-array name="gmc_model_array">
+        <item>Model</item>
+        <item>Sierra 1500</item>
+        <item>Sierra 2500HD</item>
+        <item>Sierra 3500HD</item>
+        <item>Terrain</item>
+    </string-array>
+    <string-array name="chev_model_array">
+        <item>Model</item>
+        <item>Silverado 1500</item>
+        <item>Silverado 2500HD</item>
+        <item>Silverado 3500HD</item>
+        <item>Equinox</item>
+        <item>Avalanche</item>
+    </string-array>
+    <string-array name="ram_model_array">
+        <item>Model</item>
+        <item>1500</item>
+        <item>2500HD</item>
+        <item>3500HD</item>
+        <item>Promaster</item>
+    </string-array>
+    <string-array name="toyota_model_array">
+        <item>Model</item>
+        <item>Avalon</item>
+        <item>Camry</item>
+        <item>4Runner</item>
+        <item>Rav4</item>
+        <item>Tacoma</item>
+        <item>Tundra</item>
+    </string-array>
+    <string-array name="pref_model_array">
+        <item>Model</item>
+        <item>2 series</item>
+        <item>3 series</item>
+        <item>5 series</item>
+        <item>6 series</item>
+        <item>7 series</item>
+        <item>X3</item>
+        <item>X5</item>
+        <item>Wrangler JK</item>
+        <item>Grand Cherokee</item>
+        <item>Gladiator</item>
+        <item>Compass</item>
+        <item>Cherokee</item>
+        <item>Wrangler JK</item>
+        <item>Grand Cherokee</item>
+        <item>Gladiator</item>
+        <item>Compass</item>
+        <item>Cherokee</item>
+        <item>C class</item>
+        <item>E class</item>
+        <item>GLC</item>
+        <item>GLE</item>
+        <item>G class</item>
+        <item>S class</item>
+        <item>Escape</item>
+        <item>Explorer</item>
+        <item>Expedition</item>
+        <item>F150</item>
+        <item>F250</item>
+        <item>F350</item>
+        <item>F450</item>
+        <item>Sierra 1500</item>
+        <item>Sierra 2500HD</item>
+        <item>Sierra 3500HD</item>
+        <item>Terrain</item>
+        <item>Silverado 1500</item>
+        <item>Silverado 2500HD</item>
+        <item>Silverado 3500HD</item>
+        <item>Equinox</item>
+        <item>Avalanche</item>
+        <item>1500</item>
+        <item>2500HD</item>
+        <item>3500HD</item>
+        <item>Promaster</item>
+        <item>Avalon</item>
+        <item>Camry</item>
+        <item>4Runner</item>
+        <item>Rav4</item>
+        <item>Tacoma</item>
+        <item>Tundra</item>
+    </string-array>
+
+
+    <!--VEHICLE INVENTORY INFO-->
+    <string name="brand1">LADA</string>
+    <string name="model1">Vesta СЕДАН</string>
+    <string name="year1">2022</string>
+    <string name="price1">От 1300000₽</string>
+    <string name="description1"> LADA Vesta Sport – автомобиль, построенный с применением гоночных технологий и адаптированный к ежедневным поездкам по городу и шоссе. LADA Vesta Sport – это особый яркий стиль, полностью перенастроенное шасси и мотор, форсированный до 145 л.с.</string>
+
+    <string name="brand7">LADA</string>
+    <string name="model7">Vesta CROSS</string>
+    <string name="year7">2022</string>
+    <string name="price7">От 1450000₽</string>
+    <string name="description7">Спортивный силуэт седана сочетается с внедорожным обвесом и дополняется крупными колесами. Контрастный дизайн LADA Vesta Cross безусловно функционален: защитные накладки на порогах, дверях и арках колес предохраняют эмаль кузова при поездках по легкому бездорожью.</string>
+
+    <string name="brand8">LADA</string>
+    <string name="model8">Vesta SW</string>
+    <string name="year8">2022</string>
+    <string name="price8">От 1680000₽</string>
+    <string name="description8">LADA с кузовом типа «SW» ориентированы на активный отдых и длительные путешествия. Поэтому здесь увеличено пространство для пассажиров и предусмотрено много ниш для хранения.</string>
+
+    <string name="brand2">LADA</string>
+    <string name="model2">Niva Travel</string>
+    <string name="year2">2022</string>
+    <string name="price2">От 1740000₽</string>
+    <string name="description2">LADA Niva Travel — это мощь полного привода и постоянная готовность к приключениям. К приключениям с комфортом.</string>
+
+    <string name="brand9">LADA</string>
+    <string name="model9">Niva Urban</string>
+    <string name="year9">2022</string>
+    <string name="price9">От 1090000₽</string>
+    <string name="description9">Трудные дорожные условия. Теснота городских кварталов. Бескрайние поля и лесные тропинки... Это среда обитания LADA 4х4, она была, есть и будет. Именно поэтому LADA 4х4 входит в число самых легендарных автомобилей мира, вызывающих восхищение миллионов людей.Отличное сочетание компактности, проходимости и комфортной цены – это делает LADA 4х4 необыкновенно популярной.</string>
+
+    <string name="brand10">LADA</string>
+    <string name="model10">Niva Bronto</string>
+    <string name="year10">2022</string>
+    <string name="price10">От 1240000₽</string>
+    <string name="description10">Покоритель стихий и гроза бездорожья — это LADA Niva в специальной версии Bronto. Настоящий вездеход с брутальной внешностью, стальным характером и множеством преимуществ: литые колесные диски, надежный внедорожный обвес, противотуманные фары, рейлинги на крыше, камуфляжная окраска и усиленная жажда приключений.</string>
+
+    <string name="brand3">LADA</string>
+    <string name="model3">Largus</string>
+    <string name="year3">2022</string>
+    <string name="price3">От 1600000₽</string>
+    <string name="description3">Largus – это не только комфортная энергоемкая подвеска. LADA Largus универсал– это динамичный автомобиль, способный решить множество задач. Когда от него требуется скорость, он может быстро разгоняться даже с полной нагрузкой. Этому способствуют специально подобранные передаточные числа в трансмиссии. Когда водитель ждет от Largus уверенных маневров, автомобиль доказывает, что умеет послушно следовать движениям руля.</string>
+
+    <string name="brand11">LADA</string>
+    <string name="model11">Largus CROSS</string>
+    <string name="year11">2022</string>
+    <string name="price11">От 1900000₽</string>
+    <string name="description11">У нового LADA Largus Cross достаточно высокий клиренс, чтобы смотреть на несовершенства дороги свысока. А это значит – доступны новые маршруты. Расширились возможности для парковки. Можно проще относиться не только к дорогам, но и к «направлениям». В душе водителя – мир и гармония… Вот что делает защита кузова и 195 мм дорожного просвета!</string>
+
+    <string name="brand12">LADA</string>
+    <string name="model12">Largus фургон</string>
+    <string name="year12">2022</string>
+    <string name="price12">От 1360000₽</string>
+    <string name="description12"> LADA Largus фургон воплощает широкий характер автомобиля, его многофункциональность. Силуэт автомобиля стал более основательным, а линии кузова — более элегантными. Ведь современный коммерческий автомобиль должен не только приятно выглядеть. Его задача — внушать уважение, демонстрируя статус компании и предпринимателя.</string>
+
+    <string name="brand4">LADA</string>
+    <string name="model4">Granta универсал</string>
+    <string name="year4">2022</string>
+    <string name="price4">От 1050000₽</string>
+    <string name="description4">LADA Granta (Лада Гранта) — российский переднеприводный автомобиль малого класса Волжского автомобильного завода. Представляет из себя семейство переименованных моделей, состоящее из отделённого от семейства «Лада Калина» кузова типа седан и созданного на его основе кузова лифтбек.</string>
+
+    <string name="brand6">LADA</string>
+    <string name="model6">Granta CROSS</string>
+    <string name="year6">2022</string>
+    <string name="price6">От 1370000₽</string>
+    <string name="description6">Семейному многозадачному автомобилю необходим просторный салон. Нужно ощущение воздуха. Чтобы был запас пространства по ширине, по высоте. Ведь мы ездим круглый год, перевозим множество вещей, а главное – пассажиров, у каждого из которых есть свой набор, который он берет в поездку. Именно по таким принципам построен интерьер компактного, но вместительного универсала LADA Granta Cross.</string>
+
+    <string name="brand13">LADA</string>
+    <string name="model13">Granta лифтбек</string>
+    <string name="year13">2022</string>
+    <string name="price13">От 1280000₽</string>
+    <string name="description13">Народный автомобиль стал ярче и привлекательнее: Granta получила черты современной ДНК стиля LADA.«Икс»-графика переднего бампера, выразительная светотехника, рельеф багажника и, конечно, множество практичных улучшений — это LADA Granta, любимая.</string>
+
+    <string name="brand5">Brand</string>
+    <string name="model5">Model</string>
+    <string name="year5">Year</string>
+    <string name="price5">Price</string>
+    <string name="description5">Description</string>
+
+
+    <string name="title_activity_settings">Настройки</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Изменить дданные</string>
+
+    <!--Customer settings-->
+
+    <string name="pref_title_first_name">Имя</string>
+    <string name="pref_default_first_name"></string>
+
+    <string name="pref_title_last_name">Фамилия</string>
+    <string name="pref_default_last_name"></string>
+
+    <string name="pref_title_email">Почта</string>
+    <string name="pref_default_email"></string>
+
+    <string name="pref_title_phone">Телефон</string>
+    <string name="pref_default_phone"></string>
+
+    <!--CAR SETTINGS-->
+    <string name="pref_header_vehicle">Информация об автомобиле</string>
+
+    <string name="pref_title_brand">Марка</string>
+
+    <string name="pref_title_model">Модель</string>
+
+    <string name="pref_title_vin">VIN</string>
+    <string name="pref_default_vin"></string>
+
+    <string name="pref_title_km">Пробег</string>
+    <string name="pref_default_km"></string>
+
+    <string name="pref_title_delete">Очистить поля</string>
+
+
+</resources>
